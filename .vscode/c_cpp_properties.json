@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Espressif/frameworks/esp-idf-v5.2.2/**",
+                "C:/Espressif/frameworks/esp-idf-v5.2.2/components/spiffs/include",
+                "C:/Espressif/frameworks/esp-idf-v5.2.2/components/log/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
