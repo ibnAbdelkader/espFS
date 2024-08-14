@@ -1,0 +1,3 @@
+- Create a file system in esp32.
+- Build spiffs partition table and store some files in it.
+- Read the contents of these files and display them on terminal.
